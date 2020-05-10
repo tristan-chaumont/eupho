@@ -273,7 +273,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       AspectRatio(
-                        aspectRatio: 20 / 5,
+                        aspectRatio: 4,
                         child: Image.asset('assets/logos/eupho-large-cut.png'),
                       ),
                       SizedBox(
